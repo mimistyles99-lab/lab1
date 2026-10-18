@@ -1,0 +1,7 @@
+Ai tool used :Claude and ChatGPT
+promps used:
+how do i connect and HTML form to PHP?
+how do i test PHP form? 
+
+How AI help?
+it helped me understand how to structure my HTML pages, and test PHP server.
